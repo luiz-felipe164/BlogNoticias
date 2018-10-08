@@ -1,0 +1,21 @@
+
+#formulario_post{
+	margin: 0 auto;
+	width: 70%; /* Valor da Largura */
+	background-color: #B0C4DE;
+	margin-top: 10px;
+	padding: 8px;
+	text-align: center;
+}
+
+#noticias{
+	margin: 0 auto;
+	width: 70%; /* Valor da Largura */
+	background-color: #00CED1;
+	margin-top: 10px;
+	padding: 8px;
+}
+
+.container{
+	background-color: #E6E6FA;	
+}
